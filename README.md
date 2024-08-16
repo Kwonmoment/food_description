@@ -1,1 +1,1 @@
-# food_description
+# food_descriptor
